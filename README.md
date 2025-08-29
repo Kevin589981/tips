@@ -3,6 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 一个简洁的命令行笔记工具，支持快速创建临时笔记文件，关闭编辑器后自动清理文件。
+现在制作了一个Python版本的实现，解决了rust上出现的一些问题https://github.com/Kevin589981/tips-python
 
 ## 功能特点
 
